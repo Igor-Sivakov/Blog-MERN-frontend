@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Blog-MERN-frontend/static/css/main.767f220e.css",
-    "main.js": "/Blog-MERN-frontend/static/js/main.40abcfb9.js",
+    "main.css": "/Blog-MERN-frontend/static/css/main.5b031388.css",
+    "main.js": "/Blog-MERN-frontend/static/js/main.4dd46a9b.js",
     "static/media/marked.cjs": "/Blog-MERN-frontend/static/media/marked.c11ee875a9637e3ff538.cjs",
     "index.html": "/Blog-MERN-frontend/index.html",
-    "main.767f220e.css.map": "/Blog-MERN-frontend/static/css/main.767f220e.css.map",
-    "main.40abcfb9.js.map": "/Blog-MERN-frontend/static/js/main.40abcfb9.js.map"
+    "main.5b031388.css.map": "/Blog-MERN-frontend/static/css/main.5b031388.css.map",
+    "main.4dd46a9b.js.map": "/Blog-MERN-frontend/static/js/main.4dd46a9b.js.map"
   },
   "entrypoints": [
-    "static/css/main.767f220e.css",
-    "static/js/main.40abcfb9.js"
+    "static/css/main.5b031388.css",
+    "static/js/main.4dd46a9b.js"
   ]
 }
